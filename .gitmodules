@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PoissonPCA"]
+	path = PoissonPCA
+	url = https://github.com/cran/PoissonPCA
+	shallow = true
+	registered = true
+[submodule "SuRF.vs"]
+	path = SuRF.vs
+	url = https://github.com/cran/SuRF.vs
+	shallow = true
+	registered = true
