@@ -5,6 +5,9 @@
 [submodule "PoissonPCA"]
 	path = PoissonPCA
 	url = https://github.com/cran/PoissonPCA
+[submodule "SHRED"]
+	path = SHRED
+	url = https://github.com/cran/SHRED
 [submodule "SuRF.vs"]
 	path = SuRF.vs
 	url = https://github.com/cran/SuRF.vs
