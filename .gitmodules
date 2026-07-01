@@ -5,6 +5,9 @@
 [submodule "GLSUP"]
 	path = GLSUP
 	url = https://github.com/cran/GLSUP
+[submodule "HVS"]
+	path = HVS
+	url = https://github.com/cran/HVS
 [submodule "PoissonPCA"]
 	path = PoissonPCA
 	url = https://github.com/cran/PoissonPCA
